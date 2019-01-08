@@ -13,11 +13,11 @@ Brute Force Facebook
 ### Tested on
 
 - Windows 7/8/8.1
-- Kali linux (2017.2)
+- Kali linux
  
-### Download SiteBroker
+### Download BFF
 
-You can download the latest version of SiteBroker by cloning the GitHub repository.
+You can download the latest version of BFF by cloning the GitHub repository.
 
 	git clone https://github.com/roo3t/BFF/
 	
