@@ -1,7 +1,7 @@
 # BFF
 **Brute Force Facebook**
 
-<img src="https://imgur.com/a/4r3hbEB" />
+<img src="https://imgur.com/a/4r3hbEB.png" />
 
  ### Requirements
 
