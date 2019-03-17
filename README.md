@@ -1,8 +1,6 @@
 # BFF
 **Brute Force Facebook**
 
-<img src="https://imgur.com/a/4r3hbEB.png" />
-
  ### Requirements
 
 - Python (2.7.*)
