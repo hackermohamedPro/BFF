@@ -25,4 +25,7 @@ You can download the latest version of BFF by cloning the GitHub repository.
 
 ***Initializing Script***
 
+	chmod +x **
+	python install.py
 	python BFF.py
+	
