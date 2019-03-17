@@ -1,11 +1,9 @@
 #!/usr/bin/python
 # coding=utf-8
-# Brute Force Facebook
-# Elite Security Team
-# Email: aouati.haitem@gmail.com
-# https://www.facebook.com/elite.secu/
-# Programming by Haitem Aouati Or ./root
-#
+# Tool Name : Brute Force Facebook
+# Author : Haitem Aouati
+# Date : 17/3/2019
+# Powered By : # https://www.facebook.com/elite.secu/
 
 import requests as r
 from termcolor import colored
